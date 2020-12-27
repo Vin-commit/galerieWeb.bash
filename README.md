@@ -1,7 +1,7 @@
 # galerieWeb.bash
 
 
-# BUT : créer un fichier html réprésentant toutes les images présentes au même emplacement que ce script.
+# Finalité : créer un fichier html réprésentant toutes les images présentes au même emplacement que ce script.
 
 
 # TACHES DE BASE :
